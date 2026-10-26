@@ -88,6 +88,7 @@ AUC: 1.0
 
 ```
 
+<img width="567" height="455" alt="image" src="https://github.com/user-attachments/assets/315b766c-9967-42f4-b09d-d7f199399b93" />
 
 
 
